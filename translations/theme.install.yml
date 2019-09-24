@@ -21,6 +21,7 @@ messages:
   invalid-theme-default: 'Option default is only valid for one theme'
   getting-releases: 'Getting releases for theme "%s"'
   select-release: 'Please select your favorite release'
+  downloading: 'Downloading theme "%s" release "%s"'
 examples:
   - description: 'Install theme specifying the name'
     execution: |
