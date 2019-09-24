@@ -22,6 +22,7 @@ messages:
   getting-releases: 'Getting releases for theme "%s"'
   select-release: 'Please select your favorite release'
   downloading: 'Downloading theme "%s" release "%s"'
+  downloaded: 'Module "%s" version "%s" was downloaded successfully at "%s"'
 examples:
   - description: 'Install theme specifying the name'
     execution: |
